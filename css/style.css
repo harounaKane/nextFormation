@@ -7,3 +7,9 @@ nav{
   display: flex;
   justify-content: space-around;
 }
+
+nav a{
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+}
